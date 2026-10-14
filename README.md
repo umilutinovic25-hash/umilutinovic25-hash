@@ -18,6 +18,7 @@ and Claude-powered agents with real tool use, wrapped in FastAPI + React service
 
 | Project | What it does | Stack |
 | --- | --- | --- |
+| **[JARVIS](https://github.com/umilutinovic25-hash/jarvis-showcase)** | Private single-user AI OS for macOS — dashboard, local task bridge with safety boundaries, voice/screen/camera desktop app (showcase) | TypeScript · Next.js · Supabase · Electron · Claude |
 | **[ServiceFlow](https://github.com/umilutinovic25-hash/serviceflow)** | Human-reviewed AI intake and workflow demo for independent auto service shops | JavaScript · AI workflow |
 | **[serbian-llm-bench](https://github.com/umilutinovic25-hash/serbian-llm-bench)** | Benchmark of how well small open-source LLMs understand Serbian — 95 tasks, 6 categories, multiple models | Python · Ollama · evaluation |
 | **[ai-eval-framework](https://github.com/umilutinovic25-hash/ai-eval-framework)** | Production-grade evaluation harness for LLM systems — accuracy, hallucination, latency, cost, async batch runs, A/B reports | Python · FastAPI · WebSockets |
